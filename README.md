@@ -25,14 +25,15 @@
 
 <a href="https://www.linkedin.com/in/johnmanuelmendez/">
   <img src="./linkedin.png" alt="John Mendez | linkedin" width="24px">
-  <span>johnmanuelmendez</span>
+  <span>johnmanuelmendez &nbsp;&nbsp;&nbsp;&nbsp;</span>
 </a>
-
-<br />
-
 <a href="https://twitter.com/joan_manuel_bk">
   <img src="./twitter.png" alt="John Mendez | Twitter" width="20px">
-  <span>joan_manuel_bk</span>
+  <span>&nbsp;joan_manuel_bk &nbsp;&nbsp;&nbsp;&nbsp;</span>
+</a>
+<a href="mailto:john.manuel.mendez@gmail.com">
+  <img src="./gmail.png" alt="Send email" width="20px">
+  <span>&nbsp; john.manuel.mendez@gmail.com</span>
 </a>
 
 <br />
@@ -44,7 +45,7 @@ Here's a bit of what I've been up to:
 
 ### 📈 Outreachy Internship working with Intermine/Univ of Cambridge
 
-I was selected to overhaul their entire data browser webapp. It was an incredible experience, where I was tasked to design, and develop their webapp according to their specifications. Up till then I was a cowboy developer, so I'm grateful for the opportunity to have worked with a team, and iterate over requirements.
+I was a cowboy coder until I was selected to overhaul intermine's entire webapp. I was tasked with designing and developing it, after iterating on specifications with my mentors. It was an incredible experience, and I'm forever grateful to [outreachy](https://www.outreachy.org/) and [intermine](http://intermine.org/) for giving me the opportunity to work alongside a team on a real project.
 
 Built with react, xstate, emotion, and sass
 [live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
@@ -53,9 +54,9 @@ Built with react, xstate, emotion, and sass
 
 ### 📝 Davenpad
 
-This is a collaborative writing environment for visual writers. As a screenwriter, visuals are very inspiring for setting tone and mood. I haven't come across other writing apps that suited me, so I started to build one. Collaboration does not use operational transformations like google docs, because when collaborating on stories, individual edits aren't as important as the context for changes.
+A personal project. This is a collaborative writing environment for visual writers. As a visual writer, images are extremely important for setting tone and mood. Having quick access to research material as well. My goal is to be able to write, reference, and find inspiration at the speed of thought.
 
-Being built with a heavily modified fork of draftjs, react, redux, and typescript. Although after gaining experience using state machines during my internship, I will most likely refactor redux out. I'm also redesigning it, since the original design was limited by my naivety back in 2017.
+I'm using a heavily modified fork of draftjs that I am maintaining. The infrastructure relies on react, redux, and typescript.
 
 ![davenpad website photo](./davenpad.png)
 
@@ -93,4 +94,8 @@ A selection of projects that I built while learning how to code. All built with 
 
 - Random quote machine | [live demo](https://fcc-jm-projects.gitlab.io/random-quote-machine/) | [source](https://gitlab.com/fcc-jm-projects/random-quote-machine)
 
-###
+### 💡Goals for 2020
+
+- finish the interview cake course material
+- get a job 😁
+- get an alpha version of davenpad out
