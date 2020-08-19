@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 I'm John Mendez -->
 
-![hero](./hero.png)
+![intro image](https://github.com/JM-Mendez/jm-mendez/blob/primary/hero.png)
 
 <!--
 **JM-Mendez/jm-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
