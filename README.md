@@ -1,10 +1,26 @@
 ![intro image](https://github.com/JM-Mendez/jm-mendez/blob/primary/hero.png?raw=true)
 
+<img src="https://img.shields.io/static/v1?label=proficient&message=react&color=blue" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=typescript&color=3177c6" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=redux&color=7549bb" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=html&color=orange" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=css&color=264ce3" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=sass&color=cc669b" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=css-in-js&color=palevioletred" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=nodejs&color=3e873f" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=xstate&color=2a2b3f" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=jest&color=9a415b" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=webpack&color=6e96d7" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=git&color=f15033" />
+<img src="https://img.shields.io/static/v1?label=proficient&message=ci/cd&color=blueviolet" />
+<img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=electron&color=51727c" />
+<img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=command line&color=yellow" />
+<img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=gatsby&color=633295" />
+<img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=graphql&color=e535ab" />
+<img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=storybook&color=f54785" />
+<img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=netlify&color=39adbb" />
+
 <br />
-
-<img src="https://img.shields.io/static/v1?label=&message=react&color=blue" align="left"  />
-
-<img src="https://img.shields.io/static/v1?label=&message=typescript&color=blue"  />
 <br />
 
 <a href="https://www.linkedin.com/in/johnmanuelmendez/">
