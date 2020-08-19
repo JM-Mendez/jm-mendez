@@ -73,7 +73,7 @@
 <br />
 <br />
 
-I'm Jóan, pronounced as John, and I'm a filmmaker/actor/screenwriter transitioning into software engineering. I'm entirely self-taught, and that's been my jam since I first taught myself how to speak english as a 7 year old. I love solving problems using code, and perform best with full autonomy. I prefer to own my mistakes as much as I own my successes.
+I'm Jóan, pronounced as John, a filmmaker/actor/screenwriter transitioning into software engineering. I'm entirely self-taught, and that's been my jam since I first taught myself how to speak english as a 7 year old. My passion is solving problems using code, and perform best with full autonomy—while owning my mistakes as much as my successes.
 
 Here's a bit of what I've been up to:
 
@@ -81,16 +81,15 @@ Here's a bit of what I've been up to:
 
 I was a cowboy coder until I was selected to overhaul intermine's entire webapp. I was tasked with designing and developing it, after iterating on specifications with my mentors. It was an incredible experience, and I'm forever grateful to [outreachy](https://www.outreachy.org/) and [intermine](http://intermine.org/) for giving me the opportunity to work alongside a team on a real project.
 
-Built with react, xstate, emotion, and sass
-[live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
+Built with react, xstate, emotion, and sass | [live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
 
 ![intermine data browser gif](https://github.com/JM-Mendez/jm-mendez/blob/primary/data-browser.gif?raw=true)
 
 ### 📝 Davenpad
 
-A personal project. This is a collaborative writing environment for visual writers. As a visual writer, images are extremely important for setting tone and mood. Having quick access to research material as well. My goal is to be able to write, reference, and find inspiration at the speed of thought.
+A personal project. This is a collaborative writing environment for visual writers. As a visual writer, to me images are extremely important to help me set tone and mood. Having quick access to research material as well. My goal is for this app to help me write, reference, and find inspiration at the speed of thought.
 
-I'm using a heavily modified fork of draftjs that I am maintaining. The infrastructure relies on react, redux, and typescript.
+Built with draftjs (a modified fork I'm maintaining), react, redux, and typescript.
 
 ![davenpad website photo](https://github.com/JM-Mendez/jm-mendez/blob/primary/davenpad.png?raw=true)
 
@@ -116,7 +115,7 @@ A selection of projects that I built while learning how to code. All built with 
 </div>
 <img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/freecodecamp/pomodoro.png?raw=true">
 
-#### Some more projects
+#### More freecodecamp projects
 
 - Drum Machine | [live demo](https://fcc-jm-projects.gitlab.io/drum-machine/) | [source](https://gitlab.com/fcc-jm-projects/drum-machine)
 
@@ -128,4 +127,4 @@ A selection of projects that I built while learning how to code. All built with 
 
 - finish the interview cake course material
 - get a job 😁
-- get an alpha version of davenpad out
+- get an alpha version of davenpad out🤞
