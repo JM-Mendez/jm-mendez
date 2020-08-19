@@ -1,39 +1,57 @@
 ![intro image](https://github.com/JM-Mendez/jm-mendez/blob/primary/hero.png?raw=true)
 
 <span>
-  <img src="https://img.shields.io/static/v1?url=reactjs.org&label=proficient&message=react&color=blue" />
-
-  <img src="https://img.shields.io/static/v1?url=https://www.typescriptlang.org&label=proficient&message=typescript&color=3177c6" />
-
-  <img src="https://img.shields.io/static/v1?url=https://redux.js.org&label=proficient&message=redux&color=7549bb" />
-
-  <img src="https://img.shields.io/static/v1?url=https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5&label=proficient&message=html5&color=orange" />
-  
-  <img src="https://img.shields.io/static/v1?url=https://developer.mozilla.org/en-US/docs/Web/CSS&label=proficient&message=css&color=264ce3" />
-
-  <img src="https://img.shields.io/static/v1?url=https://sass-lang.com&label=proficient&message=sass&color=cc669b" />
-
-  <img src="https://img.shields.io/static/v1?url=https://nodejs.org&label=proficient&message=nodejs&color=3e873f" />
-
-  <img src="https://img.shields.io/static/v1?url=https://xstate.js.org&label=proficient&message=xstate&color=2a2b3f" />
-
-  <img src="https://img.shields.io/static/v1?url=https://jestjs.io&label=proficient&message=jest&color=9a415b" />
-
-  <img src="https://img.shields.io/static/v1?url=https://webpack.js.org&label=proficient&message=webpack&color=6e96d7" />
-
-  <img src="https://img.shields.io/static/v1?url=https://git-scm.com&label=proficient&message=git&color=f15033" />
-
-  <img src="https://img.shields.io/static/v1?url=https://www.electronjs.org&label=familiar&labelColor=lightgrey&message=electron&color=51727c" />
-
-  <img src="https://img.shields.io/static/v1?url=http://gatsbyjs.org&label=familiar&labelColor=lightgrey&message=gatsby&color=633295" />
-
-  <img src="https://img.shields.io/static/v1?url=https://graphql.org&label=familiar&labelColor=lightgrey&message=graphql&color=e535ab" />
-
-  <img src="https://img.shields.io/static/v1?url=https://storybook.js.org/&label=familiar&labelColor=lightgrey&message=storybook&color=f54785" />
-
-  <img src="https://img.shields.io/static/v1?url=https://www.netlify.com/&label=familiar&labelColor=lightgrey&message=netlify&color=39adbb" />
-
-  <img src="https://img.shields.io/static/v1?url=https://www.markdownguide.org/&label=familiar&labelColor=lightgrey&message=markdown&color=34a5df" />
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=react&color=blue" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=typescript&color=3177c6" />
+  <a>
+  <a href="https://redux.js.org">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=redux&color=7549bb" />
+  <a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=html5&color=orange" />
+  <a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=css&color=264ce3" />
+  <a>
+  <a href="https://sass-lang.com">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=sass&color=cc669b" />
+  <a>
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=nodejs&color=3e873f" />
+  <a>
+  <a href="https://xstate.js.org">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=xstate&color=2a2b3f" />
+  <a>
+  <a href="https://jestjs.io">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=jest&color=9a415b" />
+  <a>
+  <a href="https://webpack.js.org">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=webpack&color=6e96d7" />
+  <a>
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/static/v1?label=proficient&message=git&color=f15033" />
+  <a>
+  <a href="https://www.electronjs.org">
+    <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=electron&color=51727c" />
+  <a>
+  <a href="http://gatsbyjs.org">
+    <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=gatsby&color=633295" />
+  <a>
+  <a href="https://graphql.org">
+    <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=graphql&color=e535ab" />
+  <a>
+  <a href="https://storybook.js.org/">
+    <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=storybook&color=f54785" />
+  <a>
+  <a href="https://www.netlify.com/">
+    <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=netlify&color=39adbb" />
+  <a>
+  <a href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=markdown&color=34a5df" />
+  <a>
 </span>
 
 <br />
