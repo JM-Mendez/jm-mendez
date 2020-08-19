@@ -54,6 +54,10 @@
   <a>
 </span>
 
+<a href="https://www.codewars.com/users/JM-Mendez/stats">
+  <img src="https://www.codewars.com/users/JM-Mendez/badges/large" height="32px" />
+</a>
+
 <br />
 <br />
 
