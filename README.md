@@ -1,6 +1,6 @@
 ![intro image](https://github.com/JM-Mendez/jm-mendez/blob/primary/hero.png?raw=true)
 
-<img src="https://img.shields.io/static/v1?label=proficient&message=react&color=blue" />
+<!-- <img src="https://img.shields.io/static/v1?label=proficient&message=react&color=blue" />
 <img src="https://img.shields.io/static/v1?label=proficient&message=typescript&color=3177c6" />
 <img src="https://img.shields.io/static/v1?label=proficient&message=redux&color=7549bb" />
 <img src="https://img.shields.io/static/v1?label=proficient&message=html&color=orange" />
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=graphql&color=e535ab" />
 <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=storybook&color=f54785" />
 <img src="https://img.shields.io/static/v1?label=familiar&labelColor=lightgrey&message=netlify&color=39adbb" />
+-->
 
 <br />
 <br />
@@ -50,7 +51,7 @@ I was a cowboy coder until I was selected to overhaul intermine's entire webapp.
 Built with react, xstate, emotion, and sass
 [live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
 
-![intermine data browser gif](./data-browser.gif)
+![intermine data browser gif](https://github.com/JM-Mendez/jm-mendez/blob/primary/data-browser.gif?raw=true)
 
 ### 📝 Davenpad
 
@@ -58,35 +59,31 @@ A personal project. This is a collaborative writing environment for visual write
 
 I'm using a heavily modified fork of draftjs that I am maintaining. The infrastructure relies on react, redux, and typescript.
 
-![davenpad website photo](./davenpad.png)
+![davenpad website photo](https://github.com/JM-Mendez/jm-mendez/blob/primary/davenpad.png?raw=true)
 
 ### ✨ Freecodecamp projects
 
 A selection of projects that I built while learning how to code. All built with react, typescript, and sometimes redux.
 
-<details>
-  <summary>Javascript Calculator</summary>
-  <div>
-    <a href="https://fcc-jm-projects.gitlab.io/javascript-calculator/">live demo</a>
-    <span> | </span>
-    <a href="https://gitlab.com/fcc-jm-projects/javascript-calculator">source</a>
-  </div>
-  <img src="./freecodecamp/calculator.png">
-</details>
+#### Javascript Calculator
 
-<div></div>
+<div>
+  <a href="https://fcc-jm-projects.gitlab.io/javascript-calculator/">live demo</a>
+  <span> | </span>
+  <a href="https://gitlab.com/fcc-jm-projects/javascript-calculator">source</a>
+</div>
+<img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/freecodecamp/calculator.png?raw=true">
 
-<details>
-  <summary>Pomodoro clock</summary>
-  <div>
-    <a href="https://fcc-jm-projects.gitlab.io/pomodoro-clock/">live demo</a>
-    <span> | </span>
-    <a href="https://gitlab.com/fcc-jm-projects/pomodoro-clock">source</a>
-  </div>
-  <img src="./freecodecamp/pomodoro.png">
-</details>
+#### Pomodoro clock
 
-#### Some more
+<div>
+  <a href="https://fcc-jm-projects.gitlab.io/pomodoro-clock/">live demo</a>
+  <span> | </span>
+  <a href="https://gitlab.com/fcc-jm-projects/pomodoro-clock">source</a>
+</div>
+<img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/freecodecamp/pomodoro.png?raw=true">
+
+#### Some more projects
 
 - Drum Machine | [live demo](https://fcc-jm-projects.gitlab.io/drum-machine/) | [source](https://gitlab.com/fcc-jm-projects/drum-machine)
 
