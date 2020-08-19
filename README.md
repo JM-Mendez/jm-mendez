@@ -25,15 +25,15 @@
 <br />
 
 <a href="https://www.linkedin.com/in/johnmanuelmendez/">
-  <img src="./linkedin.png" alt="John Mendez | linkedin" width="24px">
+  <img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/linkedin.png?raw=true" alt="John Mendez | linkedin" width="24px">
   <span>johnmanuelmendez &nbsp;&nbsp;&nbsp;&nbsp;</span>
 </a>
 <a href="https://twitter.com/joan_manuel_bk">
-  <img src="./twitter.png" alt="John Mendez | Twitter" width="20px">
+  <img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/twitter.png?raw=true" alt="John Mendez | Twitter" width="20px">
   <span>&nbsp;joan_manuel_bk &nbsp;&nbsp;&nbsp;&nbsp;</span>
 </a>
 <a href="mailto:john.manuel.mendez@gmail.com">
-  <img src="./gmail.png" alt="Send email" width="20px">
+  <img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/gmail.png?raw=true" alt="Send email" width="20px">
   <span>&nbsp; john.manuel.mendez@gmail.com</span>
 </a>
 
