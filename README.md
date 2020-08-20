@@ -87,7 +87,9 @@ I was a cowboy coder until I was selected to overhaul intermine's entire webapp.
 
 Built with react, xstate, emotion, and sass | [live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
 
-![intermine data browser gif](https://github.com/JM-Mendez/jm-mendez/blob/primary/data-browser.gif?raw=true)
+<a href="https://intermine-data-browser.netlify.app/">
+  <img alt="intermine data browser project" src="https://github.com/JM-Mendez/jm-mendez/blob/primary/data-browser.gif?raw=true" />
+</a>
 
 ### 📝 Davenpad
 
@@ -108,7 +110,10 @@ A selection of projects that I built while learning how to code. All built with 
   <span> | </span>
   <a href="https://gitlab.com/fcc-jm-projects/javascript-calculator">source</a>
 </div>
-<img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/freecodecamp/calculator.png?raw=true">
+<a href="https://fcc-jm-projects.gitlab.io/javascript-calculator/">
+  <img alt="javascript calculator project" src="https://github.com/JM-Mendez/jm-mendez/blob/primary/freecodecamp/calculator.png?raw=true">
+</a>
+
 
 #### Pomodoro clock
 
@@ -117,7 +122,10 @@ A selection of projects that I built while learning how to code. All built with 
   <span> | </span>
   <a href="https://gitlab.com/fcc-jm-projects/pomodoro-clock">source</a>
 </div>
-<img src="https://github.com/JM-Mendez/jm-mendez/blob/primary/freecodecamp/pomodoro.png?raw=true">
+<a href="https://fcc-jm-projects.gitlab.io/pomodoro-clock/">
+  <img alt="pomodoro clock project" src="https://github.com/JM-Mendez/jm-mendez/blob/primary/freecodecamp/pomodoro.png?raw=true">
+</a>
+
 
 #### More freecodecamp projects
 
