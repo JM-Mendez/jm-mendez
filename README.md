@@ -85,6 +85,11 @@ Here's a bit of what I've been up to:
 
 I was a cowboy coder until I was selected to overhaul intermine's entire webapp. I was tasked with designing and developing it, after iterating on specifications with my mentors. It was an incredible experience, and I'm forever grateful to [outreachy](https://www.outreachy.org/) and [intermine](http://intermine.org/) for giving me the opportunity to work alongside a team on a real project.
 
+The biggest challenges I overcame were:
+- fetching large payloads (10s of mbs) for hundreds of components, without causing out of memory errors
+- wrangling the data without locking up the UI on the main thread
+- creating search indexes for autocompletes, since some components had 10s of thousands of possible values
+
 Built with react, xstate, emotion, and sass | [live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
 
 <a href="https://intermine-data-browser.netlify.app/">
