@@ -77,7 +77,7 @@
 <br />
 <br />
 
-I'm Jóan, pronounced as John, a filmmaker/actor/screenwriter transitioning into software engineering. I'm entirely self-taught, and that's been my jam since I first taught myself how to speak english as a 7 year old. My passion is solving problems using code, and perform best with full autonomy—while owning my mistakes as much as my successes.
+I'm Jóan, pronounced as John, a filmmaker/actor/screenwriter transitioning into software engineering. I'm entirely self-taught, and that's been my jam since I first taught myself how to speak english as a 7 year old. My passion is solving problems using code, and perform at my absolute best with full autonomy—while owning my mistakes as much as my successes.
 
 Here's a bit of what I've been up to:
 
@@ -100,7 +100,7 @@ Built with react, xstate, emotion, and sass | [live demo](https://intermine-data
 
 A personal project. This is a collaborative writing environment for visual writers. As a visual writer, to me images are extremely important to help me set tone and mood. Having quick access to research material as well. My goal is for this app to help me write, reference, and find inspiration at the speed of thought.
 
-Built with draftjs (a modified fork I'm maintaining), react, redux, and typescript.
+Built with draftjs (a modified fork I'm maintaining), react, redux, typescript, and fp-ts (functional programming library).
 
 ![davenpad website photo](https://github.com/JM-Mendez/jm-mendez/blob/primary/davenpad.png?raw=true)
 
