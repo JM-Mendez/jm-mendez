@@ -105,7 +105,7 @@ Built with react, xstate, blueprintjs, emotion, and sass | [live demo](https://i
 
 A personal project. This is a collaborative writing environment for visual writers. As a visual writer, images are extremely important to help me set tone and mood, as well as having quick access to research material. My goal is for this app to help writers, reference, and find inspiration at the speed of thought.
 
-Built with draftjs (a modified fork I'm maintaining), react, redux, typescript, and fp-ts (functional programming library). Tested with Jest and soon react testing library.
+Built with draftjs (a modified fork I'm maintaining), react, redux, typescript, and fp-ts (functional programming library). Tested with Jest and soon react testing library, with a CI/CD pipepline using gitlab CI
 
 ![davenpad website photo](https://github.com/JM-Mendez/jm-mendez/blob/primary/davenpad.png?raw=true)
 
