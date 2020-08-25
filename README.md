@@ -82,6 +82,9 @@ I'm Jóan, pronounced as John, a filmmaker/actor/screenwriter transitioning into
 Here's a bit of what I've been up to:
 
 1. [Intermine/University of Cambridge Internship](#-outreachy-internship-working-with-intermineuniv-of-cambridge)
+2. [Davenpad personal project](#-davenpad)
+3. [Freecodecamp projects](#-freecodecamp-projects)
+4. [Knowledge sharing](#-knowledge-sharing)
 
 ### 📈 Outreachy Internship working with Intermine/Univ of Cambridge
 
@@ -141,6 +144,16 @@ A selection of projects that I built while learning how to code. All built with 
 - Markdown Previewer | [live demo](https://fcc-jm-projects.gitlab.io/markdown-previewer/) | [source](https://gitlab.com/fcc-jm-projects/markdown-previewer)
 
 - Random quote machine | [live demo](https://fcc-jm-projects.gitlab.io/random-quote-machine/) | [source](https://gitlab.com/fcc-jm-projects/random-quote-machine)
+
+### 👥 Knowledge Sharing
+These are some of my most liked answers on freecodecamp. Because the forum is for untrained developers, I tend to avoid techinical terms and focus on mental models when explaining concepts.
+
+1. [How the prototype chain and callbacks work](https://forum.freecodecamp.org/t/implement-map-on-a-prototype-so-confused/202862/17?u=jm-mendez)
+2. [An in depth explanation of functional programming concepts using array methods](https://forum.freecodecamp.org/t/about-the-refactor-global-variables-out-of-functions/197697/4?u=jm-mendez)
+2. [Explaining how react-redux injects props using higher order functions in class components](https://forum.freecodecamp.org/t/extract-local-state-into-redux/182622/10?u=jm-mendez)
+3. [Spread operator and value vs reference](https://forum.freecodecamp.org/t/use-the-spread-operator-to-evaluate-arrays-in-place-question/196892/9?u=jm-mendez)
+4. [Why we need to spread an array for Math.max](https://forum.freecodecamp.org/t/use-the-spread-operator-to-evaluate-arrays-in-place-question/196892/11?u=jm-mendez)
+5. [Just a nice compliment I received for my answers 😊](https://forum.freecodecamp.org/t/use-the-spread-operator-to-evaluate-arrays-in-place-question/196892/14?u=jm-mendez)
 
 ### 💡Goals for 2020
 
