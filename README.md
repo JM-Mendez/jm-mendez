@@ -81,6 +81,8 @@ I'm Jóan, pronounced as John, a filmmaker/actor/screenwriter transitioning into
 
 Here's a bit of what I've been up to:
 
+1. [Intermine/University of Cambridge Internship](#-outreachy-internship-working-with-intermineuniv-of-cambridge)
+
 ### 📈 Outreachy Internship working with Intermine/Univ of Cambridge
 
 I was a cowboy coder until I was selected to overhaul intermine's entire webapp. I was tasked with designing and developing it, after iterating on specifications with my mentors. It was an incredible experience, and I'm forever grateful to [outreachy](https://www.outreachy.org/) and [intermine](http://intermine.org/) for giving me the opportunity to work alongside a team on a real project.
