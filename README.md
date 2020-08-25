@@ -154,9 +154,3 @@ These are some of my most liked answers on freecodecamp. Because the forum is fo
 3. [Spread operator and value vs reference](https://forum.freecodecamp.org/t/use-the-spread-operator-to-evaluate-arrays-in-place-question/196892/9?u=jm-mendez)
 4. [Why we need to spread an array for Math.max](https://forum.freecodecamp.org/t/use-the-spread-operator-to-evaluate-arrays-in-place-question/196892/11?u=jm-mendez)
 5. [Just a nice compliment I received for my answers 😊](https://forum.freecodecamp.org/t/use-the-spread-operator-to-evaluate-arrays-in-place-question/196892/14?u=jm-mendez)
-
-### 💡Goals for 2020
-
-- finish the interview cake course material
-- get a job 😁
-- get an alpha version of davenpad out🤞
