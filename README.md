@@ -90,7 +90,7 @@ The biggest challenges I overcame were:
 - wrangling the data without locking up the UI on the main thread
 - creating search indexes for autocompletes, since some components had 10s of thousands of possible values
 
-Built with react, xstate, emotion, and sass | [live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
+Built with react, xstate, blueprintjs, emotion, and sass | [live demo](https://intermine-data-browser.netlify.app/) | [source](https://github.com/JM-Mendez/InterMine-Data-Browser-Tool)
 
 <a href="https://intermine-data-browser.netlify.app/">
   <img alt="intermine data browser project" src="https://github.com/JM-Mendez/jm-mendez/blob/primary/data-browser.gif?raw=true" />
